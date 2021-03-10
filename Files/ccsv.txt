@@ -1,0 +1,4 @@
+Name,age,location
+prashanth,28,bangalore
+ravi,29,mandya
+sahana,24,mysore
